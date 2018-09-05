@@ -11,6 +11,7 @@ HMD
 This is the body of the Display setup to be work on the head similar to a helmet
 
 HMD attachments
+![parts02](https://user-images.githubusercontent.com/30887610/45095023-99b81e00-b13a-11e8-856b-b0c4ac167e39.png)
 
 Attachments to support circuit components
 
