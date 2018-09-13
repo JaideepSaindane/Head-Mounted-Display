@@ -1,8 +1,19 @@
 # Head-Mounted-Display
 This repository showcases 3D models created for an Augmented Reality-based surgical assistance device.
+
 Tools used: 
+
 Autodesk Inventor : For 3D modelling and stress analysis
+
 Abaqus : For stress analysis
+
+The model is housing for circuitry of the surgical assistance device. 
+The project involved ideation and 3D momdelling of the optimal design for the HMD considering functionality without compromising aesthetics.
+
+Human factors were considered while making the design. 
+Additional components were designed in order to stabalize and optimize the circuitry.
+
+Final design was 3D printed and the cirtuitry assembled.
 
 ## Images
 
@@ -10,7 +21,7 @@ HMD
 
 ![hmd1](https://user-images.githubusercontent.com/30887610/45094867-3e862b80-b13a-11e8-92da-06a5e98c00a0.png)
 
-This is the body of the Display setup to be worn on the head similar to a helmet
+This is the body of the display setup to be worn on the head similar to a helmet
 
 HMD attachments
 
