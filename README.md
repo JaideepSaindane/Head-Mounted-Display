@@ -8,7 +8,7 @@ Autodesk Inventor : For 3D modelling and stress analysis
 Abaqus : For stress analysis
 
 The model is housing for circuitry of the surgical assistance device. 
-The project involved ideation and 3D momdelling of the optimal design for the HMD considering functionality without compromising aesthetics.
+The project involved ideation and 3D modelling of the optimal design for the HMD considering functionality without compromising aesthetics.
 
 Human factors were considered while making the design. 
 Additional components were designed in order to stabalize and optimize the circuitry.
